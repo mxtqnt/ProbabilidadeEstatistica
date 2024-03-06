@@ -1,0 +1,10 @@
+1 - 
+
+Genero	        Idade	                Escolaridade	Trabalho	    Reg_metrop	    Cor	            Reg_Urbano	    Cart_assinada	    Pobreza
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Qualitativo     Quantitativo            Qualitativo     Qualitativo     Qualitativo     Qualitativo     Qualitativo     Qualitativo         Qualitativo
+Nominal         Continuo Discretizado   Ordinal         Nominal         Nominal         Nominal         Nominal         Nominal             Nominal         
+Categorico  
+
+2 - Pobreza realcionada com as variáveis.
+
