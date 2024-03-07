@@ -2,3 +2,5 @@ pandas
 numpy
 matplotlib
 matplotlib-inline
+seaborn
+openpyxl
