@@ -4,3 +4,5 @@ matplotlib
 matplotlib-inline
 seaborn
 openpyxl
+ipykernel
+scipy
